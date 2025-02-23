@@ -1,6 +1,6 @@
 # GoCalc
 
-Simple Calculator adalah aplikasi kalkulator berbasis terminal yang dikembangkan menggunakan **Golang**. Aplikasi ini mendukung operasi aritmetika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+GoCalc adalah aplikasi kalkulator berbasis terminal yang dikembangkan menggunakan **Golang**. Aplikasi ini mendukung operasi aritmatika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
 
 ## Fitur
 - Operasi matematika dasar:  
@@ -20,11 +20,18 @@ Pastikan Anda telah menginstal **Golang** di sistem Anda. Jika belum, silakan un
    ```bash
    git clone https://github.com/username/simple-calculator.git
 
-Teknologi yang Digunakan
-
-Golang
-
+Teknologi yang Digunakan (GOLANG)
 
 Kontribusi
 
 Kontribusi sangat dihargai! Jika ingin berkontribusi, silakan ikuti langkah berikut:
+
+1. Fork repository ini
+
+2. Buat branch baru (git checkout -b feature-branch)
+
+3. Lakukan perubahan dan commit (git commit -m "Menambahkan fitur XYZ")
+
+4. Push ke branch Anda (git push origin feature-branch)
+
+5. Buat Pull Request
