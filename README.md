@@ -19,3 +19,12 @@ Pastikan Anda telah menginstal **Golang** di sistem Anda. Jika belum, silakan un
 1. **Clone repository ini**  
    ```bash
    git clone https://github.com/username/simple-calculator.git
+
+Teknologi yang Digunakan
+
+Golang
+
+
+Kontribusi
+
+Kontribusi sangat dihargai! Jika ingin berkontribusi, silakan ikuti langkah berikut:
